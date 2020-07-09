@@ -1,14 +1,6 @@
 #pragma once
-
-
-
-
-
-
-
  
- 
-int sum(int i)
+int sum(int n);
 
 
 

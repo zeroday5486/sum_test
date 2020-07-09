@@ -1,5 +1,4 @@
 #include "sum.h"
-
 int sum(int n){
     int sum = 0;
 
